@@ -1,4 +1,4 @@
-## 80C85 Altaids Computer
+# Intel 80C85 Altaids Computer
 
 [Build a Pocket-Sized Altair Computer](https://www.nutsvolts.com/magazine/article/build-a-pocket-sized-altair-computer) By David Hunter
 
