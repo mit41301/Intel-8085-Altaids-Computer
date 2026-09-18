@@ -15,3 +15,7 @@
 <img width="800" height="447" alt="image" src="https://github.com/user-attachments/assets/4f29fd1d-9a49-4da8-b2a5-85c7dd35634e" />
 
 <img width="800" height="465" alt="image" src="https://github.com/user-attachments/assets/856597c6-197b-4ee2-8710-257364489415" />
+
+[# ](https://www.tindie.com/products/retrocomputer/8085-chip-computer-pocket-sized-z80-altoids/)
+
+https://www.tindie.com/products/nkk_electronic/8085-sbc-altair-style-mini-board-altoids/
