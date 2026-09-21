@@ -22,3 +22,5 @@ Corner radius .55" (14mm)
     "X": 91.44 mm  
     "Y": 56.896 mm  
     
+
+<img width="987" height="1306" alt="image" src="https://github.com/user-attachments/assets/1422c0a1-fb00-426f-885c-bd13fba2893a" />
