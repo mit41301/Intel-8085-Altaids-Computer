@@ -28,3 +28,5 @@ Corner radius .55" (14mm)
 # A85 8085 cross-assembler
 
 A85 8085 cross-assembler can be found from Herb Johnson's [SITE](https://www.retrotechnology.com/restore/a85.html) and it works on Windows 11!
+
+command line: A85 altaidsRom.asm -l altaids.lst -o altaids.hex  
